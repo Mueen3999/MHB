@@ -1,19 +1,3 @@
-
-
-print(Fore.CYAN + """
- __  __ _    _ ______ _   _ 
-|  \/  | |  | |  ____| \ | |
-| \  / | |  | | |__  |  \| |
-| |\/| | |  | |  __| | . ` |
-| |  | | |__| | |____| |\  |
-|_|  |_|\____/|______|_| \_|
-
-      ðŸ˜ˆ Mueen Cloning ðŸ˜ˆ
-""" + Style.RESET_ALL)
-
-print(Fore.GREEN + "Welcome to your personalized tool, Mueen!\n")
-
-
 import os, platform
 try:
     import requests
