@@ -1,5 +1,4 @@
-from colorama import Fore, Style, init
-init(autoreset=True)
+
 
 print(Fore.CYAN + """
  __  __ _    _ ______ _   _ 
